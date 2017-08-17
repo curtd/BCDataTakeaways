@@ -7,15 +7,24 @@ Job tips/notes from the BC Data Science Workshop
 - you'll have to learn a lot of things on your own on the job, especially coming from a pure scientific computing background
 - work on obtaining the skills outlined below BEFORE you graduate and you'll be in a lot nicer position upon graduation
 - knowing about optimization is a big advantage - don't neglect it
-- useful free resources
+- Useful courses
    - MIT Algorithms and Data Structures - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
 
-   - Stanford Machine Learning course - http://cs229.stanford.edu/
+   - Stanford Machine Learning - http://cs229.stanford.edu/
 
-   - Practical Data Science course - http://www.datasciencecourse.org/
+   - Practical Data Science - http://www.datasciencecourse.org/
+
+   - Object Oriented Programming - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/
+
+   - Mark Schmidt's CPSC 340 - https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/
+   
+   - Mark Schmidt's CPSC 540 - https://www.cs.ubc.ca/~schmidtm/Courses/540-W17/
 
    - Analysis of Variance and Design of Experiments - https://onlinecourses.science.psu.edu/stat502/node/1
 
+- Other useful resources
    - How to prepare for a data science interview - https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
-   
+
+   - What is a good way for a data scientist to construct an online portfolio? - https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio
+
    - Free data science books - http://www.wzchen.com/data-science-books/
