@@ -7,7 +7,7 @@ Job tips/notes from the BC Data Science Workshop
 - you'll have to learn a lot of things on your own on the job, especially coming from a pure scientific computing background
 - work on obtaining the skills outlined below BEFORE you graduate and you'll be in a lot nicer position upon graduation
 - knowing about optimization is a big advantage - don't neglect it
-- Useful courses
+- Useful courses (in no particular order)
    - MIT Algorithms and Data Structures - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
 
    - Stanford Machine Learning - http://cs229.stanford.edu/
@@ -16,9 +16,11 @@ Job tips/notes from the BC Data Science Workshop
 
    - Object Oriented Programming - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/object-oriented-programming/
 
-   - Mark Schmidt's CPSC 340 - https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/
-   
-   - Mark Schmidt's CPSC 540 - https://www.cs.ubc.ca/~schmidtm/Courses/540-W17/
+   - Convex Optimization - https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
+
+   - Mark Schmidt's Machine Learning CPSC 340 - https://www.cs.ubc.ca/~schmidtm/Courses/340-F16/
+
+   - Mark Schmidt's Machine Learning CPSC 540 - https://www.cs.ubc.ca/~schmidtm/Courses/540-W17/
 
    - Analysis of Variance and Design of Experiments - https://onlinecourses.science.psu.edu/stat502/node/1
 
