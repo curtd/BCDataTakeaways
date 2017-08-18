@@ -33,6 +33,14 @@ Job tips/notes from the BC Data Science Workshop
 
    - CPSC 304 Relational Databases - https://www.ugrad.cs.ubc.ca/~cs304/2016W1/index.html
 
+
+- Data Frameworks/Environments
+   - Spark (very common distributed computing framework) - https://spark.apache.org/
+
+   - Tensorflow (machine learning framework) - https://www.tensorflow.org/
+
+   - Dataiku (interactive data processing interface with lots of integration to various models, data ingestion points, etc.) - https://www.dataiku.com/   
+
 - Other useful resources
    - Kaggle Competitions - https://www.kaggle.com/
 
