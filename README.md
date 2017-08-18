@@ -7,6 +7,8 @@ Job tips/notes from the BC Data Science Workshop
 - you'll have to learn a lot of things on your own on the job, especially coming from a pure scientific computing background
 - work on obtaining the skills outlined below BEFORE you graduate and you'll be in a lot nicer position upon graduation
 - knowing about optimization is a big advantage - don't neglect it
+- it might take a while to get a job / being rejected from a job isn't a mark on yourself as a person
+- know about SQL - a large % of enterprise data is still stored in SQL databases
 - Useful courses (in no particular order)
    - MIT Algorithms and Data Structures - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
 
@@ -23,6 +25,12 @@ Job tips/notes from the BC Data Science Workshop
    - Mark Schmidt's Machine Learning CPSC 540 - https://www.cs.ubc.ca/~schmidtm/Courses/540-W17/
 
    - Analysis of Variance and Design of Experiments - https://onlinecourses.science.psu.edu/stat502/node/1
+
+   - Introduction to SQL for Data Scientists - http://downloads.bensresearch.com/SQL.pdf
+
+   - Kaggle Data Science Tutorial Wiki - https://www.kaggle.com/wiki/Tutorials
+
+   - CPSC 304 Relational Databases - https://www.ugrad.cs.ubc.ca/~cs304/2016W1/index.html
 
 - Other useful resources
    - How to prepare for a data science interview - https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
