@@ -9,7 +9,8 @@ Job tips/notes from the BC Data Science Workshop
 - knowing about optimization is a big advantage - don't neglect it
 - it might take a while to get a job / being rejected from a job isn't a mark on yourself as a person
 - know about SQL - a large % of enterprise data is still stored in SQL databases
-- Useful courses (in no particular order)
+
+- Useful courses/things to know (in no particular order)
    - MIT Algorithms and Data Structures - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
 
    - Stanford Machine Learning - http://cs229.stanford.edu/
@@ -33,6 +34,8 @@ Job tips/notes from the BC Data Science Workshop
    - CPSC 304 Relational Databases - https://www.ugrad.cs.ubc.ca/~cs304/2016W1/index.html
 
 - Other useful resources
+   - Kaggle Competitions - https://www.kaggle.com/
+
    - How to prepare for a data science interview - https://www.quora.com/How-do-I-prepare-for-a-data-scientist-interview
 
    - What is a good way for a data scientist to construct an online portfolio? - https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio
