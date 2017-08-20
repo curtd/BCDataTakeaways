@@ -49,3 +49,9 @@ Job tips/notes from the BC Data Science Workshop
    - What is a good way for a data scientist to construct an online portfolio? - https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio
 
    - Free data science books - http://www.wzchen.com/data-science-books/
+
+   - r/machinelearning - https://www.reddit.com/r/MachineLearning/
+
+   - r/datascience - https://www.reddit.com/r/datascience/
+
+   - Machine Learning for Humans - introductory overview of ML topics - https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
