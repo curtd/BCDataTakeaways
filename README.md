@@ -38,6 +38,7 @@ Job tips/notes from the BC Data Science Workshop
    - Spark (very common distributed computing framework) - https://spark.apache.org/
 
    - Tensorflow (machine learning framework) - https://www.tensorflow.org/
+      - Keras (high-level interface on top of Tensorflow/Theano/CNTK) - https://keras.io/
 
    - Dataiku (interactive data processing interface with lots of integration to various models, data ingestion points, etc.) - https://www.dataiku.com/   
 
