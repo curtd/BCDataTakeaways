@@ -42,6 +42,11 @@ Job tips/notes from the BC Data Science Workshop
 
    - Dataiku (interactive data processing interface with lots of integration to various models, data ingestion points, etc.) - https://www.dataiku.com/   
 
+   - Pandas (Python-based data analysis library) - http://pandas.pydata.org/
+      - A bunch of Pandas exercises - https://github.com/guipsamora/pandas_exercises
+
+   - Scikit-learn (Python-based ) - http://scikit-learn.org/stable/
+
 - Other useful resources
    - Kaggle Competitions - https://www.kaggle.com/
 
