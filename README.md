@@ -26,6 +26,7 @@ Job tips/notes from the BC Data Science Workshop
    - Mark Schmidt's Machine Learning CPSC 540 - https://www.cs.ubc.ca/~schmidtm/Courses/540-W17/
 
    - Analysis of Variance and Design of Experiments - https://onlinecourses.science.psu.edu/stat502/node/1
+      - Statistics courses generally - https://onlinecourses.science.psu.edu
 
    - Introduction to SQL for Data Scientists - http://downloads.bensresearch.com/SQL.pdf
 
@@ -33,6 +34,7 @@ Job tips/notes from the BC Data Science Workshop
 
    - CPSC 304 Relational Databases - https://www.ugrad.cs.ubc.ca/~cs304/2016W1/index.html
 
+   - Computer Age Statistical Inference (free ebook) - https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf
 
 - Data Frameworks/Environments
    - Spark (very common distributed computing framework) - https://spark.apache.org/
